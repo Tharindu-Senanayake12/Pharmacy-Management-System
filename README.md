@@ -21,14 +21,13 @@ The user interface was initially designed using **Figma** to ensure a clean, int
 
 ## 🛠️ Technologies Used
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/GunaUI-UI%20Framework-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+
+  * **Programming Language**: C# 
+  * **Framework**: .NET, GunaUI 
+  * **IDE**: Visual Studio 
+  * **Database**: SQL-based local database 
+  * **UI Designing**: Figma
+
 
 ---
 
