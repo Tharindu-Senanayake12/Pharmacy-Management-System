@@ -19,6 +19,20 @@ The user interface was initially designed using **Figma** to ensure a clean, int
 
 ---
 
+## 🖼️ Project Screenshots
+
+<p align="center">
+  <img src="login.png" width="45%" style="margin:10px;" />
+  <img src="dashboard.png" width="45%" style="margin:10px;" />
+</p>
+
+<p align="center">
+  <img src="inventory.png" width="45%" style="margin:10px;" />
+  <img src="admin.png" width="45%" style="margin:10px;" />
+</p>
+
+---
+
 ## 🛠️ Technologies Used
 
 
