@@ -22,13 +22,13 @@ The user interface was initially designed using **Figma** to ensure a clean, int
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="login.jpg" width="45%" style="margin:10px;" />
-  <img src="dashboard.jpg" width="45%" style="margin:10px;" />
+  <img src="screenshots/login.png" width="45%" style="margin:10px;" />
+  <img src="screenshots/pos.png" width="45%" style="margin:10px;" />
 </p>
 
 <p align="center">
-  <img src="inventory.jpg" width="45%" style="margin:10px;" />
-  <img src="admin.jpg" width="45%" style="margin:10px;" />
+  <img src="screenshots/admin_dash.png" width="45%" style="margin:10px;" />
+  <img src="screenshots/add_products.png" width="45%" style="margin:10px;" />
 </p>
 
 ---
